@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.img {
+  width: 300px;
+}
+.card {
+  margin: 10px;
+  margin-left: 10px;
+  align-items: center;
+}
